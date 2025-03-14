@@ -21,3 +21,5 @@ socket.on("chat message", (msg) => {
     newMessage.textContent = msg;
     messages.appendChild(newMessage);
 });
+
+// jsut to test maan
